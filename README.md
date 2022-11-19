@@ -1,9 +1,7 @@
-<<<<<<< HEAD
 # ToDo App 
 =======
 # To Do Web-App
 
->>>>>>> 7a69f93ac397ca8c1617e980e42428764ad00566
 
 ### Getting Started with Create React App
 
